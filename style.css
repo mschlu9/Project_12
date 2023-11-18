@@ -1,0 +1,45 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  border: solid;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.click-event {
+  border-radius: 20px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.myButton_4 {
+  margin-top: 10px;
+  width: 30em;
+  border-radius: 10px;
+  font-size: 22px;
+}
+
+.myButton_8 {
+  margin-top: 10px;
+  width: 30em;
+  border-radius: 10px;
+  font-size: 22px;
+}
+
+.myButton_7 {
+  margin-top: 10px;
+  width: 30em;
+  border-radius: 10px;
+  font-size: 22px;
+}
+
+.myButton_10 {
+  margin-top: 10px;
+  width: 30em;
+  border-radius: 10px;
+  font-size: 22px;
+}
